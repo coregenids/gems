@@ -23,7 +23,7 @@ const HeroSlider = () => {
         <Container>
           <div className="slider__content ">
             <h4 className="text-light mb-3">Sparkling cartones Delivered</h4>
-            <h1 className="text-light mb-4">Discover the Brilliance of car at Chinthaka</h1>
+            <h1 className="text-light mb-4">Discover the Brilliance of Gems at Chinthaka</h1>
 
             <button className="btn reserve__btn mt-4">
               <Link to="/">Reserve Now</Link>
@@ -36,7 +36,7 @@ const HeroSlider = () => {
         <Container>
           <div className="slider__content ">
             <h4 className="text-light mb-3">Sparkling cartones Delivered</h4>
-            <h1 className="text-light mb-4">Discover the Brilliance of car at Chinthaka</h1>
+            <h1 className="text-light mb-4">Discover the Brilliance of Gems at Chinthaka</h1>
 
             <button className="btn reserve__btn mt-4">
               <Link to="/gems">Reserve Now</Link>
@@ -49,7 +49,7 @@ const HeroSlider = () => {
         <Container>
           <div className="slider__content ">
             <h4 className="text-light mb-3">Sparkling cartones Delivered</h4>
-            <h1 className="text-light mb-4">Discover the Brilliance of car at Chinthaka</h1>
+            <h1 className="text-light mb-4">Discover the Brilliance of Gems at Chinthaka</h1>
 
             <button className="btn reserve__btn mt-4">
               <Link to="/gems">Reserve Now</Link>
